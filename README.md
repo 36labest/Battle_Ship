@@ -1,1 +1,2 @@
-# Battle_Ship
+# Battleship
+Battleship game in python
